@@ -1,5 +1,12 @@
 ﻿# LibreLibrary
 
+To run client:
+
+    cd client
+    npm run dev
+
+    Frontend will be running on http://localhost:5173/
+
 To run server:
 
     cd server
